@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.grovemade{
+    margin: 0px 478px;
+}
+
+
+.header_s{
+    margin: 0 28px;
+}
+
+.vector{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.g{
+    margin: 0 auto;
+}
