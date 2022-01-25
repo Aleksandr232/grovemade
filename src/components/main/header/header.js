@@ -31,8 +31,8 @@ const Header =()=>{
                 <img src={a} alt="" />
                 <img src={d} alt="" />
                 <img src={ee} alt="" />
-
             </div>
+            <Link className="header_my" to=''>MY CART</Link>
         </div>
     )
 }

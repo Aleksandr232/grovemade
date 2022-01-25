@@ -21,3 +21,143 @@
 .g{
     margin: 0 auto;
 }
+
+.header_s{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header_e{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.header_my{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.thedesk{
+    background: url('img/desk.jpg' ) center center/cover no-repeat;
+    height: 504px;
+    margin: 30px -16px auto;
+    
+}
+
+.container{
+    width: 1000px; 
+    margin: 0 auto;
+}
+
+.text_title{
+    width: 440px;
+    height: 46px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 43px;
+    line-height: 46px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0px auto;
+    padding-top: 219px;
+}
+
+.sub_title{
+    width: 211px;
+    height: 18px;
+    left: calc(50% - 211px/2 - 0.04px);
+    top: 53px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.8px;
+    color: #FFFFFF;
+    margin: 12px auto;
+}
+
+.mini_sub_title{
+    height: 15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 28px auto;
+}
+
+.title_desing{
+    width: 297px;
+    height: 58px;
+    left: calc(50% - 297px/2 + 0.5px);
+    top: 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 43px;
+    line-height: 58px;
+    text-align: center;
+    color: #000000;
+    margin: 80px auto;
+}
+
+.sub_title_desing{
+    width: 481px;
+    height: 24px;
+    left: calc(50% - 481px/2 - 0.5px);
+    top: 81px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.8px;
+    color: #A0A0A0;
+    margin: 23px auto;
+}
+
+.getstarted{
+    height: 21px;
+    left: calc(50% - 100px/2);
+    top: 131px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #000000;
+    margin: 26px auto;
+}
