@@ -2,6 +2,7 @@ import React,{Component} from "react";
 import Header from "./header";
 import TheDesk from "./the desk";
 import Desing from "./desing";
+import Featured from "./featured";
 
 export default class Main extends Component{
     render(){
@@ -10,6 +11,7 @@ export default class Main extends Component{
                 <Header/>
                 <TheDesk/>
                 <Desing/>
+                <Featured/>
             </div>
         )
     }

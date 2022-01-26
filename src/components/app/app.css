@@ -1,7 +1,7 @@
 .header{
     display: flex;
     justify-content: flex-start;
-    align-items: flex-start;
+    align-items: flex-end;
 }
 
 .grovemade{
@@ -98,7 +98,7 @@ a{
     text-align: center;
     letter-spacing: 0.8px;
     color: #FFFFFF;
-    margin: 12px auto;
+    margin: 66px auto;
 }
 
 .mini_sub_title{
@@ -116,7 +116,6 @@ a{
 }
 
 .title_desing{
-    width: 297px;
     height: 58px;
     left: calc(50% - 297px/2 + 0.5px);
     top: 0px;
@@ -143,7 +142,7 @@ a{
     text-align: center;
     letter-spacing: 0.8px;
     color: #A0A0A0;
-    margin: 23px auto;
+    margin: 69px auto;
 }
 
 .getstarted{
@@ -205,4 +204,68 @@ a{
     letter-spacing: 1.4px;
     text-transform: uppercase;
     color: #000000;
+}
+
+.walunt{
+    width: 310px;
+    height: 434px;
+}
+
+.carousel{
+    margin: 0 auto;
+    text-align: center;
+    width: 1164px;
+}
+
+
+.carousel-control-next-icon{
+    background-color: black;
+}
+
+.carousel-control-prev-icon{
+    background-color:black;
+}
+
+.device{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 21px;
+    letter-spacing: 0.7px;
+    color: #A0A0A0;
+}
+
+.price{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.7px;
+    color: #A0A0A0;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 20px;
+    left: calc(50% - 7px/2 - 22.5px);
+    top: 8.88px;
+    background: #000000;
+    
+}
+
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-right: 15%;
+    margin-bottom: 1rem;
+    margin-left: 15%;
+    list-style: none;
+    margin: 496px;
 }
