@@ -5,7 +5,7 @@
 }
 
 .grovemade{
-    margin: 0px 575px;
+    margin: 0px 500px;
 }
 
 
@@ -160,4 +160,49 @@ a{
     text-transform: uppercase;
     color: #000000;
     margin: 26px auto;
+}
+
+
+
+.grid_desing{
+    margin: 0px 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,520px);
+    justify-content: center;
+}
+
+.img_deskpads{
+    width: 500px;
+}
+
+.img_laptop{
+    width: 500px;
+}
+
+.title_pads{
+    margin: 48px auto;
+    text-align: center;
+    height: 30px;
+    left: calc(50% - 128px/2 + 0.25px);
+    top: -2.53px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.learnmore{
+    text-align: center;
+    margin: 23px auto;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #000000;
 }
