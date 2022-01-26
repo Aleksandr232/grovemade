@@ -20,7 +20,7 @@ const Header =()=>{
             <Link className="header_s" to=''>SHOP</Link>
             <Link className="header_e" to=''>EXPLORE</Link>
             <div className="grovemade">
-                <img src={vector1} alt="" />
+                <img src={vector1} alt="" className="vector1" />
                 <img src={vector} alt="" className="vector" />
                 <img src={g} alt=""  className="g"/>
                 <img src={r} alt="" className="r" />
