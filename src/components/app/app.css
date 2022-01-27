@@ -71,6 +71,12 @@ a{
     
 }
 
+.home{
+    background: url('img/home.jpg' ) center center/cover no-repeat;
+    height: 504px;
+    margin: 30px -16px auto;
+}
+
 .container{
     width: 1000px; 
     margin: 0 auto;
@@ -91,7 +97,6 @@ a{
 }
 
 .sub_title{
-    width: 211px;
     height: 18px;
     left: calc(50% - 211px/2 - 0.04px);
     top: 53px;
@@ -135,7 +140,6 @@ a{
 }
 
 .sub_title_desing{
-    width: 481px;
     height: 24px;
     left: calc(50% - 481px/2 - 0.5px);
     top: 81px;
@@ -273,4 +277,12 @@ a{
     margin-left: 15%;
     list-style: none;
     margin: 496px;
+}
+
+.make_grid{
+    display: grid;
+    margin: 10px 134px;
+    grid-template-columns: repeat(auto-fit,219px);
+    justify-content: start;
+    row-gap: 28px;
 }
