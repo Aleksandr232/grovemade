@@ -286,3 +286,19 @@ a{
     justify-content: start;
     row-gap: 28px;
 }
+
+.desinginspires{
+ background: url('img/desinginspires.jpg')
+
+}
+
+.icon{
+    display: block;
+    margin: 0px auto;
+    padding-top: 85px;
+}
+
+#text_title{
+    margin: -90px auto;
+    padding-bottom: 147px;
+}

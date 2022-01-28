@@ -6,6 +6,7 @@ import Featured from "./featured";
 import HomeOffice from "./homeoffice";
 import Made from "./made";
 import Make from "./make";
+import WeHope from "./wehope";
 
 export default class Main extends Component{
     render(){
@@ -18,6 +19,7 @@ export default class Main extends Component{
                 <HomeOffice/>
                 <Made/>
                 <Make/>
+                <WeHope/>
             </div>
         )
     }
