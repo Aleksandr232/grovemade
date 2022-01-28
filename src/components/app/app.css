@@ -302,3 +302,43 @@ a{
     margin: -90px auto;
     padding-bottom: 147px;
 }
+
+@media(max-width:575px){
+    .header{
+        margin: 0 45px;
+    }
+
+    html {
+        overflow-x: hidden;
+      }
+    
+    body{
+        overflow-x:hidden;
+    }
+
+    .grovemade{
+        display:flex;
+        margin: 0px 55px;
+    }
+
+    .thedesk{
+        width: 165%;
+    }
+
+    .grid_desing{
+        margin: 0px 494px;
+    }
+
+    .carousel{
+        margin: 0px -29px;
+        width: 1080px
+    }
+
+    .carousel-control-prev{
+        display: none;
+    }
+
+    .carousel-control-next{
+        display: none;
+    }
+}
