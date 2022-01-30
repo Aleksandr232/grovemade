@@ -13,7 +13,7 @@ const WeHope=()=>{
              <div className='desinginspires'>
                  <img src={icon} alt=""  className='icon'/>
                 <div className="text_title" id='text_title'>Design Inspires</div>
-                    <div className="sub_title">
+                    <div className="sub_title" id='sub'>
                     Build your dream workspace, so you can get your best work done.
                     </div>
              </div>

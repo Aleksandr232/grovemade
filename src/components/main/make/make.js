@@ -31,7 +31,7 @@ const Make = () => {
     <section className="make">
       <div className="container">
         <div className="title_desing">Make Work Meaningful</div>
-        <div className="sub_title_desing">
+        <div className="sub_title_desing" id="stitledesing">
           We're here because we believe that your work deserves the best. A team
           that loves working together<br/> is the magic that makes it all happen.
         </div>
