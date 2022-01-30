@@ -305,7 +305,7 @@ a{
 
 @media(max-width:575px){
     .header{
-        margin: 0 45px;
+        margin: 0 -14px;
     }
 
     html {
@@ -331,7 +331,7 @@ a{
 
     .carousel{
         margin: 0px -29px;
-        width: 1080px
+        width: 472px
     }
 
     .carousel-control-prev{
@@ -341,4 +341,76 @@ a{
     .carousel-control-next{
         display: none;
     }
+
+    .header_s{
+        font-size: 10px;
+    }
+
+    .header_e{
+        font-size: 10px;
+    }
+
+    .header_my{
+        font-size: 10px;
+    }
+
+    .text_title{
+        margin: -3px;
+    }
+
+    .sub_title{
+        margin-left: -512px;
+    }
+
+    .title_desing{
+        margin: 80px 0px 0px -575px;
+    }
+
+    .sub_title_desing{
+        margin: 69px 0px 0px -575px;
+        font-size: 12px;
+    }
+
+    .grid_desing{
+        margin: 0px 227px;
+    }
+
+    .img_deskpads{
+        width: 456px;
+    }
+
+    .carousel-indicators{
+        margin: 78px;
+    }
+
+    #t_title{
+        width: 440px;
+        height: 46px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 43px;
+        line-height: 46px;
+        text-align: center;
+        color: #FFFFFF;
+        margin: 10px 0px 0px -5px;
+        padding-top: 219px;
+    }
+
+    #s_title{
+        font-size: 10px;
+        margin-left: -548px;
+    }
+
+
+    .made{
+        width: 70%;
+        margin: 76px -13px;
+    }
+
+    #s_t_desing{
+        font-size: 9px;
+        margin: 10px 0px 0px 10px;
+    }
+
 }
